@@ -3,7 +3,7 @@
 - 🌱 I’m Full Stack Developer SYMFONY / REACT-JS
 - 👯 I’m looking to collaborate on company
 - 💬 Ask me about Symfony or React or tech related stuff 
-- 📫 How to reach me: linkedin - Christopher Djepeno
+- 📫 How to reach me: linkedin - https://www.linkedin.com/in/christopher-djepeno-41162b16a/
 - ⚡ Fun fact: i working on Symfony and React everday
 
 ![logo_symfony2](https://user-images.githubusercontent.com/43074465/98482885-9fbb5500-2204-11eb-9bf7-63e79718693f.png)
