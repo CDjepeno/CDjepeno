@@ -1,6 +1,6 @@
 ### Hi, i'm Djepeno Christopher 👋
 
-- 🌱 I’m Full Stack Developer SYMFONY / REACT-JS
+- 🌱 I’m Developer SYMFONY / REACT-JS
 - 👯 I’m looking to collaborate on company
 - 💬 Ask me about Symfony or React or tech related stuff 
 - 📫 How to reach me: linkedin - https://www.linkedin.com/in/christopher-djepeno-41162b16a/
