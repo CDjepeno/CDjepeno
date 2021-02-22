@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on company
 - 💬 Ask me about Node-js or React or tech related stuff 
 - 📫 How to reach me: linkedin - https://www.linkedin.com/in/christopher-djepeno-41162b16a/
-- ⚡ Fun fact: i working on Symfony and React everday
+- ⚡ Fun fact: i working on Node-js and React everday
 
 ![logo_symfony2](https://user-images.githubusercontent.com/43074465/98482885-9fbb5500-2204-11eb-9bf7-63e79718693f.png)
 ![nodeJS](https://user-images.githubusercontent.com/43074465/108632149-b2812f00-746d-11eb-944c-d0e551738ff0.png)
