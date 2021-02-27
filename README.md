@@ -2,7 +2,7 @@
 
 - 🌱 I’m Developer NODE-JS / REACT-JS
 - 👯 I’m looking to collaborate on company
-- 💬 Ask me about Node-js or React or tech related stuff 
+- 💬 Ask me about Node-js or React-js or tech related stuff 
 - 📫 How to reach me: linkedin - https://www.linkedin.com/in/christopher-djepeno-41162b16a/
 - ⚡ Fun fact: i working on Node-js and React everday
 
