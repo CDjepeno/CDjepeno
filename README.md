@@ -19,11 +19,7 @@
 #### Databases
 ![phpmyadmin](https://user-images.githubusercontent.com/43074465/111558470-18bc5180-878f-11eb-8bbf-19a79702ca22.png)
 ![PostSQL](https://user-images.githubusercontent.com/43074465/111558618-68028200-878f-11eb-807f-512178f68e9e.png)
-
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
+![phpMyAdmin](https://user-images.githubusercontent.com/43074465/111559026-13133b80-8790-11eb-9abc-7942bb3fb3bf.png)
 
 
 
