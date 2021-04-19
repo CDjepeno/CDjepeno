@@ -25,6 +25,8 @@
 ![PostSQL](https://user-images.githubusercontent.com/43074465/111558618-68028200-878f-11eb-807f-512178f68e9e.png)
 ![mongodb](https://user-images.githubusercontent.com/43074465/111559084-2c1bec80-8790-11eb-940a-53b9213c7373.jpg)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDjepeno&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
