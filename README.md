@@ -13,7 +13,6 @@
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![C Badge](https://img.shields.io/badge/-C-bleu?style=for-the-badge&labelColor=black&logo=C&logoColor=bleu](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
