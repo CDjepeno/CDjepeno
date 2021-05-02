@@ -20,9 +20,10 @@
 [![Symfony Badge](https://img.shields.io/badge/-Symfony-black?style=for-the-badge&labelColor=black&logo=symfony&logoColor=white)](#)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDjepeno&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CDjepeno&theme=radical&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDjepeno&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
