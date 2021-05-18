@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@DjepenoC-1ca0f2?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DjepenoC)](https://twitter.com/DjepenoC) [![Linkedin Badge](https://img.shields.io/badge/-Christopher-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-djepeno-41162b16a//) [![Mail Badge](https://img.shields.io/badge/-@Cdjepeno-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/cdjepeno) 
 
-- 🌱 I’m Developer Node.js - React.js
+- 🌱 I’m Developer Node.js
 - 👯 I’m looking to collaborate on company
 - 💬 Ask me about Node.js or React.js or tech related stuff 
 - 📫 How to reach me: linkedin - https://www.linkedin.com/in/christopher-djepeno-41162b16a/
