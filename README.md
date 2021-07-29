@@ -21,7 +21,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CDjepeno&show_icons=true&theme=radical)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CDjepeno&theme=radical&show_icons=true&count_private=KzXu3svZzqGMqNkAhJoLTvTm)
