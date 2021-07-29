@@ -1,4 +1,4 @@
-### Hi, i'm Djepeno Christopher <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Djepeno Christopher</h1>
 
 [![Twitter Badge](https://img.shields.io/badge/-@DjepenoC-1ca0f2?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DjepenoC)](https://twitter.com/DjepenoC) [![Linkedin Badge](https://img.shields.io/badge/-Christopher-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-djepeno-41162b16a//) [![Mail Badge](https://img.shields.io/badge/-@Cdjepeno-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/cdjepeno) 
 
