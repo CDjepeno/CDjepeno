@@ -27,6 +27,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CDjepeno&theme=radical&show_icons=true&count_private=KzXu3svZzqGMqNkAhJoLTvTm)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDjepeno&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Hugooboutot/count.svg" />
+</p>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png">
 
 
 
