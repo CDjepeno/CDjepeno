@@ -8,6 +8,9 @@
 - 📫 How to reach me: linkedin - https://www.linkedin.com/in/christopher-djepeno-41162b16a/
 - ⚡ I’m currently learning clean architecture(hexagonal architecture) and TDD
 
+✨ Some recent notable projects ✨
+- https://github.com/CDjepeno/Audi_rs-HEXAGONAL-ARCHITECTURE(clean Architecture, TDD, SOLID 🚀)
+
 
 #### Top Technologies
 
