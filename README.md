@@ -9,7 +9,7 @@
 - ⚡ I’m currently learning clean architecture(hexagonal architecture) and TDD
 
 ✨ Some recent notable projects ✨
-- https://github.com/CDjepeno/Audi_rs-HEXAGONAL-ARCHITECTURE(clean Architecture, TDD, SOLID 🚀)
+- https://github.com/CDjepeno/Audi_rs-HEXAGONAL-ARCHITECTURE (clean Architecture, TDD, SOLID 🚀)
 
 
 #### Top Technologies
