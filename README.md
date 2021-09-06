@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on company
 - 💬 Ask me about Node.js or React.js or tech related stuff 
 - 📫 How to reach me: linkedin - https://www.linkedin.com/in/christopher-djepeno-41162b16a/
-- ⚡ I’m currently learning clean architecture(hexagonal architecture) and TDD
+- ⚡ I’m currently learning clean architecture
 
 ✨ Some recent notable projects ✨
 - https://github.com/CDjepeno/Audi_rs-HEXAGONAL-ARCHITECTURE (clean Architecture, TDD, SOLID 🚀)
