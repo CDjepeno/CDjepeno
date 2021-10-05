@@ -8,7 +8,7 @@
 - 📫 How to reach me: linkedin - https://www.linkedin.com/in/christopher-djepeno-41162b16a/
 - ⚡ I’m currently learning clean architecture, clean code, TDD and Refactoring.
 
-✨ Some recent notable projects ✨
+✨  Some recent notable projects  ✨
 - https://audi-rs.herokuapp.com (🚀 clean Architecture, TDD, SOLID 🚀)
 
 
