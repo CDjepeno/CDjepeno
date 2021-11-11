@@ -9,7 +9,7 @@
 - ⚡ I’m currently learning clean architecture, clean code, TDD and Refactoring.
 
 ✨  Some recent notable projects  ✨
-- https://audi-rs.herokuapp.com (🚀 clean Architecture, TDD, SOLID 🚀)
+- https://audi-rs.herokuapp.com (🚀 clean Architecsrc="https://github.com/fawzirjili/fawzirjili/blob/main/instagram-logo.gif?raw=true"ture, TDD, SOLID 🚀)
 
 
 #### Top Technologies
@@ -28,7 +28,20 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CDjepeno&theme=radical&show_icons=true&count_private=KzXu3svZzqGMqNkAhJoLTvTm)
+## contact Me
+<section>
+<a href="https://www.linkedin.com/in/christopher-djepeno-41162b16a//" target="_blank">
+   <img align="left" alt="Djepeno Christopher | Linkedin" width="150px"  src="https://github.com/fawzirjili/fawzirjili/blob/main/linkedinj.gif?raw=true"/>
+  </a>
+  <a href="https://instagram.com/cdjepeno" target="_blank">
+    <img align="left" alt="Djepeno Christopher | Instagram" width="200px" src="https://github.com/fawzirjili/fawzirjili/blob/main/instagram-logo.gif?raw=true"/>
+  </a>
+   <a href="https://twitter.com/DjepenoC" target="_blank">
+    <!-- <img align="left" alt="Faouzi RJILI | YouTube" width="200px"src="https://github.com/fawzirjili/fawzirjili/blob/main/youtube.gif?raw=true" /> -->
+    <iframe src="https://giphy.com/embed/MNa0HKdhc3SGQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/twitter-MNa0HKdhc3SGQ">via GIPHY</a></p>
+  </a>
+</section>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CDjepeno&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
