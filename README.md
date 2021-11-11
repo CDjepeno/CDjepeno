@@ -6,7 +6,7 @@
 - ⚡ I’m currently learning clean architecture, clean code, TDD and Refactoring.
 
 ✨  Some recent notable projects  ✨
-- https://audi-rs.herokuapp.com (🚀 clean Architecsrc="https://github.com/fawzirjili/fawzirjili/blob/main/instagram-logo.gif?raw=true"ture, TDD, SOLID 🚀)
+- https://audi-rs.herokuapp.com (🚀 clean Architecture, TDD, SOLID 🚀)
 
 
 #### Top Technologies
