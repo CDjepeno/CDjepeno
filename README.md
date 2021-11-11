@@ -3,7 +3,6 @@
 - 🌱 I’m Developer Node.js | React.js.
 - 👯 I’m looking to collaborate on company.
 - 💬 Ask me about Node.js or React.js or tech related stuff 
-- 📫 How to reach me: linkedin - https://www.linkedin.com/in/christopher-djepeno-41162b16a/
 - ⚡ I’m currently learning clean architecture, clean code, TDD and Refactoring.
 
 ✨  Some recent notable projects  ✨
@@ -33,10 +32,6 @@
   </a>
   <a href="https://instagram.com/cdjepeno" target="_blank">
     <img align="left" alt="Djepeno Christopher | Instagram" width="200px" src="https://github.com/fawzirjili/fawzirjili/blob/main/instagram-logo.gif?raw=true"/>
-  </a>
-   <a href="https://twitter.com/DjepenoC" target="_blank">
-    <img align="left" alt="Christopher Djepeno | Twitter" width="200px"src="https://giphy.com/embed/MNa0HKdhc3SGQ" />
-    <!-- <iframe src="https://giphy.com/embed/MNa0HKdhc3SGQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/twitter-MNa0HKdhc3SGQ">via GIPHY</a></p> -->
   </a>
 </section>
 
