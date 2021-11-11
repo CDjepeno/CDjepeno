@@ -27,10 +27,10 @@
 
 ## contact Me
 <section>
-<a href="https://www.linkedin.com/in/christopher-djepeno-%F0%9F%92%BB-41162b16a/" target="_blank">
+<a href="https://www.linkedin.com/in/christopher-djepeno-%F0%9F%92%BB-41162b16a/" target="_blank" rel="noopener noreferrer">
    <img align="left" alt="Djepeno Christopher | Linkedin" width="150px"  src="https://github.com/fawzirjili/fawzirjili/blob/main/linkedinj.gif?raw=true"/>
   </a>
-  <a href="https://instagram.com/cdjepeno" target="_blank">
+  <a href="https://instagram.com/cdjepeno" target="_blank" rel="noopener noreferrer">
     <img align="left" alt="Djepeno Christopher | Instagram" width="200px" src="https://github.com/fawzirjili/fawzirjili/blob/main/instagram-logo.gif?raw=true"/>
   </a>
 </section>
