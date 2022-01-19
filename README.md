@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Djepeno Christopher</h1>
 
-- 🌱 I’m Developer Node.js | React.js.
+- 🌱 I’m Developer Node.js.
 - 👯 I’m looking to collaborate on company.
 - 💬 Ask me about Node.js or React.js or tech related stuff 
 - ⚡ I’m currently learning clean architecture, clean code, TDD and Refactoring.
