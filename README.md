@@ -2,7 +2,7 @@
 
 - 🌱 I’m Developer Node.js.
 - 👯 I’m looking to collaborate on company.
-- 💬 Ask me about Node.js or React.js or tech related stuff 
+- 💬 Ask me about Node.js or tech related stuff 
 - ⚡ I’m currently learning clean architecture, clean code, TDD and Refactoring.
 
 ✨  Some recent notable projects  ✨
